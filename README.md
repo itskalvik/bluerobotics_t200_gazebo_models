@@ -4,4 +4,4 @@ Gazebo models for [Bluerobotics T200 thrusters](https://www.bluerobotics.com/sto
 The models have rotating propellers and simulate thrust from the propellers.
 
 #Setup
-1.Install [freebuoyancy_gazebo plugin](https://github.com/bluerobotics/freebuoyancy_gazebo#install) for buoyancy simulation.
+Install [freebuoyancy_gazebo plugin](https://github.com/bluerobotics/freebuoyancy_gazebo#install) for buoyancy simulation.
